@@ -20,7 +20,7 @@ jobs:
       - name: TheCatAPI로 고양이 정보 업데이트
         run: |
           pip install requests python-dotenv
-          python cat_info_update.py
+          python cat.py
         env:
           CAT_API_KEY: ${{ secrets.CAT_API_KEY }}
 
