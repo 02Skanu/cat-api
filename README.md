@@ -1,10 +1,10 @@
 
 # 나만 없어 고양이
 
-![Cat Image](https://cdn2.thecatapi.com/images/al1.jpg)
+![Cat Image](https://cdn2.thecatapi.com/images/MTU1NDMzNg.jpg)
 
 # 여우도 없어
-![Fox Image](https://randomfox.ca/images/74.jpg)
-⏳ 업데이트 시간: 2025-03-01 04:50:35 (KRW)
+![Fox Image](https://randomfox.ca/images/81.jpg)
+⏳ 업데이트 시간: 2025-03-01 05:11:52 (KRW)
 
 ---
