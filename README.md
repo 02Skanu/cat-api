@@ -1,10 +1,8 @@
 
-# 나만 없어 고양이
+# 진짜 없어
 
-![Cat Image](https://cdn2.thecatapi.com/images/e37.jpg)
+현재 고양이 정보를 가져올 수 없습니다.
 
-# 여우도 없어
-![Fox Image](https://randomfox.ca/images/83.jpg)
-⏳ 업데이트 시간: 2025-03-02 18:49:50 (KRW)
+⏳ 업데이트 시간: 2025-03-02 19:07:47 (KRW)
 
 ---
